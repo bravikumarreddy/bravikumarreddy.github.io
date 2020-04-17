@@ -51,7 +51,7 @@
               font-family: "Helvetica";
           }
           .bar .button {
-              background-color: #white;
+              background-color: blue;
               color:#2A2C2B;
               outline:none;
               border:none;
